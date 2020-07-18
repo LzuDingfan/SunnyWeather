@@ -7,7 +7,7 @@ import android.media.session.MediaSession
 
 class SunnyWeatherApplication:Application() {
     companion object{
-        //const val Token = "LINGPAI"
+        const val TOKEN = "sK7Eo0hbg16H7Z2c"
         @SuppressLint("StaticFieldLeak")
         lateinit var context: Context
     }
